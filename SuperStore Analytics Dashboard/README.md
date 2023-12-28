@@ -1,4 +1,4 @@
-Project: SuperStore Analytics Dashboard.
+#Project: SuperStore Analytics Dashboard.
 
 Here I am going to consider the Superstore Sales dataset(from Kaggle) to build analysis in TABLEAU in order to draw some meaningful insights, so that it can add value to the business. 
 
